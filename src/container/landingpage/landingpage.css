@@ -1,0 +1,238 @@
+@font-face{
+    font-family: "Aquire";
+    src:url('../../font-web/AquireBold-8Ma60.otf');
+   
+
+}
+@font-face{
+     font-family: 'Aquirebiasa';
+    src:url('../../font-web/Aquire-BW0ox.otf');
+ }
+/*navbar*/
+.navbar{
+	background-color: #0d0d0d;
+	
+}
+.navbar-brand{
+	font-size: 50px;	
+	font-family: "Aquire";
+	color: white;
+
+}
+
+
+ 
+ 
+.nav-link{
+	font-size: 14px;
+	font-family: 'Aquirebiasa';
+	margin-left: 40px;
+	color: white;
+	transition: .3s all;
+}
+.nav-link:hover{
+	color: transparent;
+	border-bottom: 4px solid orange;
+}
+.nav-button-link{
+	background-color: orange;
+	border-radius: 50px;
+}
+
+/*jumbotron*/
+.kotak-jumbo{
+	width: auto;
+	height: 640px;
+	background-color: #0d0d0d;
+}
+.garis-atas{
+	
+	height:25px;
+	font-size: 23px;
+	color: #8c8c8c;
+	font-family: "Aquirebiasa";
+	margin-top: 130px;
+}
+.h1-profesi{
+	font-size: 100px;
+	margin-left: 10px;
+	color:  #332100;
+	letter-spacing: 2px;
+	font-family: "Aquire";
+}
+.profesi-back{
+	margin-top: -40px;
+	margin-left: 15px;
+	color: #262626;
+}
+.h3-profesidepan{
+	font-family: "Aquirebiasa";
+	font-size: 67px;
+	margin-top: -173px;
+	color: #ffaf1a;
+}
+.span-back{
+	color: white;
+}
+.garisbawah1 {
+	border-color: orange;
+	width: 5%;
+	float: left;
+	margin-left: 120px;
+	margin-top: -5px;
+}
+.garisbawah2 {
+	border-color: orange;
+	width: 10%;
+	float: left;
+	margin-left: 10px;
+	margin-top: -5px;
+}
+.garisbawah3 {
+	border-color: orange;
+	width: 26%;
+	float: left;
+	margin-left: 10px;
+	margin-top: -5px;
+}
+.kotak-name{
+	width: 65%;
+	height: 280px;
+	background-color: grey;
+	border: 2px solid white;
+	margin-left: 140px;
+	border-radius: 5px;
+	margin-top: 100px;
+}
+.sosmed{
+	width: 65%;
+	margin-left: 140px; 	
+	margin-top: 15px;
+	
+
+}
+.logo-sosmed1{
+	font-size: 30px;
+	color: white;
+	
+}
+.logo-sosmed{
+	font-size: 30px;
+	color: white;
+	margin-left:31px;
+}
+.fa-toggle-on{
+	color: white;
+	font-size: 30px;
+	height: 80px;
+	margin-top: 100px;
+}
+.kotak-bawah1{
+	background-color: black;
+	width: 100%;
+	min-height: 500px;
+	margin-top: -35px;
+}
+.logo{
+	width: 80%;
+	margin-top: 80px;
+	background: none;
+}
+.h3-about{
+	margin-top: 80px;
+}
+span{
+	color: orange;
+}
+.h3-about{
+	color: white;
+	font-family: "Aquirebiasa";
+}
+.kotak-bawah2{
+	background-color: #0d0d0d;
+	min-height: 500px;	
+}
+.logoawesome{
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	font-size: 30px;
+	color: rgb();
+
+}
+.h3-prog{
+	margin-top: 100px;
+	margin-left: 20px;
+	font-family: "Aquirebiasa";
+	color: white;
+	margin-bottom: 0px;
+}
+.h3-web{
+	margin-top: 70px;
+	margin-left: 20px;
+	font-family: "Aquirebiasa";
+	color: white;
+	margin-bottom: 30px;
+}
+.kotak-bawah3{
+	background-color:black;	
+	min-height: 450px;
+}
+.logolanding{
+	width: 100%;
+	height: 180px;
+	
+}
+.wadah-logolanding2{
+	width: 90%;
+	height: 180px;
+	margin-left: 20px;
+	background-color: red;
+	
+}
+.wadah-logolanding1{
+	width: 90%;
+	height: 180px;
+	margin-left:75px;
+	background-color: red;
+	
+}
+.wadah-logolanding3{
+	width: 90%;
+	height: 180px;
+	margin-left: -35px;
+	background-color: red;
+	
+}
+.kotak-button{
+	width: 87%;
+	background:#0d0d0d;
+	padding: 8px;
+	padding-left: 50px;
+	color: white;
+	height: 40px;
+	margin-left: 75px;
+	margin-top: 40px;
+}
+.btn-warning{
+	margin-left: 780px;
+	margin-top: -50px;
+}
+.kotak-footer{
+	background-color:#0d0d0d;	
+	min-height: 200px;
+}
+.kotak-name-footer{
+	width: 12%;
+	height: 120px;
+	background-color: grey;
+	border: 2px solid white;
+	margin-left: 490px;
+	border-radius: 5px;
+	margin-top: 50px;
+}
+.p-footer{
+	color: #f2f2f2;
+	margin-top: 10px;
+	font-family: 'Aquire';
+}
